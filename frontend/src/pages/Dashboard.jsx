@@ -2,7 +2,7 @@ import "../App.css";
 import { useEffect, useState } from "react";
 import axios from "axios";
 
-const API_BASE = "http://localhost:5000";
+const API_BASE = "https://ai-employee-performance-1-d003.onrender.com";
 
 function Dashboard() {
 
